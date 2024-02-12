@@ -4,10 +4,26 @@ div{
 }
 h1{
     background-color: green;
+    width: 200px;
 }
 #one{
     background-color: palegreen;
+    border-width: 5px;
+    border-color: black;
+    border-style: solid;
+    box-sizing: border-box;
 }
 #two{
     background-color: seagreen;
+    border-width: 5px;
+    border-color: black;
+    border-style: solid;
+    box-sizing: border-box;
+}
+#three{
+    background-color: peachpuff;
+    border-width: 4px;
+    border-color: aqua;
+    border-style: dotted;
+    box-sizing: border-box;
 }
