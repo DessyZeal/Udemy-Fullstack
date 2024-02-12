@@ -2,11 +2,15 @@ div{
     width: 200px;
     background-color: blue;
 }
+body{
+    margin: 0;
+}
 h1{
     background-color: green;
     width: 200px;
     padding-left: 30px;
     padding-top: 50px;
+    margin-bottom: 0;
 }
 #one{
     background-color: palegreen;
