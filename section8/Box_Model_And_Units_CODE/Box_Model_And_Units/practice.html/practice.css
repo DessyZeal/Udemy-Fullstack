@@ -12,13 +12,15 @@ h1{
     border-color: black;
     border-style: solid;
     box-sizing: border-box;
+    border-bottom-right-radius: 10%;
 }
 #two{
     background-color: seagreen;
     border-width: 5px;
-    border-color: black;
+    border-color: white;
     border-style: solid;
     box-sizing: border-box;
+    border-radius: 10%;
 }
 #three{
     background-color: peachpuff;
