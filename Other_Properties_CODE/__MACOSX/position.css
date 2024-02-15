@@ -1,0 +1,18 @@
+div{
+    width: 100px;
+    height: 100px;
+    background-color: pink;
+    border: 1px solid purple;
+    margin: 10px;
+    display: inline-block;
+}
+.middle{
+    background-color: whitesmoke;
+}
+.relative .middle{
+    position: relative;
+    top: 100px;
+}
+.absolute .middle{
+    position: absolute;
+}
