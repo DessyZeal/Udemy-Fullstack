@@ -9,3 +9,8 @@
     background-color: aquamarine;
     border-radius: 50%;
 }
+section div{
+    height: 100px;
+    width: 100px;
+    background-color: skyblue;
+}
