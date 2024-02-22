@@ -13,4 +13,9 @@ section div{
     height: 100px;
     width: 100px;
     background-color: skyblue;
+    margin: 20px 0;
+    transition: margin-left 3s;
+}
+section:hover div{
+    margin-left: 500px;
 }
