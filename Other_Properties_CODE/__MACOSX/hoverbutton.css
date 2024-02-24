@@ -13,3 +13,10 @@ button{
     padding: 1em 2em;
     font-size: 1em;
 }
+button:hover{
+    border-color: blueviolet;
+    color: white;
+    box-shadow: 0 0.5em 0.5em -0.4em blueviolet;
+    transform: translateY(-0.25em);
+    cursor: pointer;
+}
