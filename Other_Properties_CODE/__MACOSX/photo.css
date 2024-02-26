@@ -4,5 +4,9 @@ img{
 }
 nav{
     text-transform: uppercase;
-    border-bottom: 2px #f1f1f1;
+    border-bottom: 2px solid gray;
+    margin-left: 1.66666%;
+    width: 30%;
+    padding: 10px 0;
+
 }
