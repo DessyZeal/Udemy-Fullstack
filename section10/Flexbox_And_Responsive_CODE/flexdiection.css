@@ -13,6 +13,7 @@ h1{
     flex-direction: row;
     justify-content: space-between;
     align-items: flex-end;
+    flex-wrap: wrap-reverse;
 }
 #container div{
     height: 200px;
