@@ -12,7 +12,7 @@ nav {
     justify-content: space-between;
 }
 ul{
-    border: 1px solid blue;
+    /* border: 1px solid blue; */
     flex: 1;
     max-width: 50%;
     display: flex;
@@ -27,6 +27,14 @@ ul,li {
  @media (max-width: 768px){
     h1 {
         font-size: 4em;
+    }
+    nav{
+        flex-direction: column;
+        align-items: center;
+    }
+    nav ul{
+        flex-direction: column;
+        align-items: center;
     }
 }
 @media (max-width: 576px){
